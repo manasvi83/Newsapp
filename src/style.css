@@ -1,0 +1,18 @@
+.card{
+    padding: 2rem;
+    width: 300px;
+    height: 300px;
+    margin: 1rem;
+    /* margin-top: 10%; */
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.boss{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar {
+    background-color: #c8a2c8 !important;
+}
